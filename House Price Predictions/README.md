@@ -1,7 +1,7 @@
 This projects solves the regression problem of House price prediction.
 
-The projects has following steps:
+The projects has following notebooks:
 1. Handling missing values
 2. Exploratory Data Analysis
-2. Feature Engineering
-3. Modelling
+3. Feature Engineering
+4. Modelling
